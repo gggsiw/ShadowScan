@@ -37,6 +37,7 @@ python shadowscan.py
 
 ## Credits
 - Arjun Bohara
-- E3ROR404
+
+## SPECIAL THANKS FOR TESTING OUR TOOL
 - IHA089
 - Coding Chat Room
