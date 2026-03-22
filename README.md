@@ -75,7 +75,7 @@ python ShadowScan.Py
 
 ## 🧪 Usage
 
-1. Enter Target URL (`Http://` Or `Https://`)
+1. Enter Target URL (`http://` Or `https://`)
 2. Select Modules Or Click **Select All**
 3. Click **Run Audit**
 4. Monitor Live Scan Progress
